@@ -69,7 +69,7 @@ A arquitetura segue boas práticas de organização, como separação de respons
 src/
 |-- main/
 |   |-- java/
-|   |   |-- com.example.factory/
+|   |   |-- com.lucasazevedo.api_pagamentos/
 |   |       |-- factory/          # Implementação do padrão Factory
 |   |       |-- controller/        # Controladores REST
 |   |       |-- service/           # Regras de negócio
